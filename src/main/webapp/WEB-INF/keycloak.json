@@ -1,0 +1,12 @@
+{
+  "realm": "TeamSecurity",
+  "auth-server-url": "http://localhost:8180/auth",
+  "ssl-required": "external",
+  "resource": "MyWebApp",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "1ff665e7-1f57-4cb0-acb4-07eb9a7edb93"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
