@@ -16,8 +16,15 @@
 			<artifactId>javaee-api</artifactId>
 			<version>7.0</version>
 			<scope>compile</scope>
-		</dependency>		
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.keycloak/keycloak-core -->
+		<dependency>
+			<groupId>org.keycloak</groupId>
+			<artifactId>keycloak-core</artifactId>
+			<version>5.0.0</version>
+		</dependency>
 	</dependencies>
+
 	<build>
 		<finalName>myapp</finalName>
 	</build>
