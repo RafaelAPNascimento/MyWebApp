@@ -5,8 +5,8 @@
   "resource": "MyWebApp",
   "verify-token-audience": true,
   "credentials": {
-    "secret": "1ff665e7-1f57-4cb0-acb4-07eb9a7edb93"
+    "secret": "2ef84a81-3f19-4cef-a456-1e8b21870d6c"
   },
   "confidential-port": 0,
-  "policy-enforcer": {}	
+  "policy-enforcer": {}
 }
