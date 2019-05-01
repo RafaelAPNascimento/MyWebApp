@@ -83,4 +83,8 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/maven,eclipse
+=======
+# End of https://www.gitignore.io/api/maven,eclipse
+>>>>>>> 71617f7d6ec185e67d1e833134bf9b7cf45632f4
